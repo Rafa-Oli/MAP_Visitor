@@ -38,7 +38,5 @@ public class Program {
         triangulo.aceitaVisita(visitorCA);
         System.out.println("\nArea Triangulo: " + visitorCA.visitaTriangulo(triangulo));
         System.out.println("Perimetro Triangulo: " + visitorCP.visitaTriangulo(triangulo));
-
-
     }
 }
