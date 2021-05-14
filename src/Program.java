@@ -2,9 +2,7 @@ import entities.Circulo;
 import entities.Retangulo;
 import entities.Trapezio;
 import entities.Triangulo;
-import operations.VisitorCalculaArea;
-import operations.VisitorCalculaPerimetro;
-import operations.VisitorMaximizaFigura;
+import operations.*;
 import visitor.VisitorIF;
 
 public class Program {

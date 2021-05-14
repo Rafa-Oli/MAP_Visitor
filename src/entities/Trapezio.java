@@ -1,6 +1,6 @@
 package entities;
 
-import visitor.ElementoConcreto;
+import visitor.*;
 import visitor.VisitorIF;
 
 public class Trapezio implements ElementoConcreto {
